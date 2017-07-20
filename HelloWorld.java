@@ -13,8 +13,9 @@ public class HelloWorld {
 		  int f=d-e;
 		  
 	      System.out.println("Hello, World");
+
 		  System.out.println("Hello, World" +c);
-		  System.out.println("Hello, World"+f);
+		  System.out.println("Hello, World"+f);		  
 
 	   }
 
