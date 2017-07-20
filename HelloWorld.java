@@ -8,8 +8,14 @@ public class HelloWorld {
 		 int b=0;
 		 int c=a+b;
 	      
+		  int d=3;
+		  int e=1;
+		  int f=d-e;
+		  
 	      System.out.println("Hello, World");
 		  System.out.println("Hello, World" +c);
+		  System.out.println("Hello, World"+f);
+
 	   }
 
 }
